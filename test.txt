@@ -1,0 +1,7 @@
+different colours 
+red
+green
+yellow
+orange
+purple
+black
