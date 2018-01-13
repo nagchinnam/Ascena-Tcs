@@ -2,6 +2,7 @@ different colours
 red
 green
 yellow
+pink
 orange
 purple
 black
